@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   "Beginner in Data Science"
   <br><br><br>
   "Still learning new concepts of Data science"
-  <br><br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
